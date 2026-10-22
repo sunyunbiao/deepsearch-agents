@@ -192,7 +192,7 @@ deepsearch-agents/
 ### 2. 克隆项目
 
 ```bash
-git clone https://github.com/didilili/deepsearch-agents.git
+git clone https://github.com/sunyunbiao/deepsearch-agents.git
 cd deepsearch-agents
 ```
 
